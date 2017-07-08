@@ -1,0 +1,4 @@
+baseURL = "https://www.devrel.salon/"
+languageCode = "en-us"
+title = "Paris DevRel Salon"
+theme = "blank"
