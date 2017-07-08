@@ -1,7 +1,6 @@
 ---
 title: "A Call To Action"
 date: 2017-06-21T09:40:23+02:00
-draft: true
 ---
 
 You practice developer relations or developer marketing. Perhaps you've been doing it for a while, and want to share stories. Perhaps you are new and aren't yet sure what it is you do. Either way, you have a story to share, and an urge to hear the stories of others. Same here; I’ve got a lot of questions, and a lot of stories.
